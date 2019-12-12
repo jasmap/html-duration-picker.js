@@ -17,9 +17,9 @@ html-duration-picker.js is a very tiny JS library to turn native HTML text input
 
 ![Default Input](https://github.com/nadchif/html-duration-picker.js/blob/master/screenshots/default-before.jpg)
 
-**AFTER** ```<input type="text" html-duration-picker>```
+**AFTER** ```<input type="text" class="html-duration-picker">```
 
-![Default Input](https://github.com/nadchif/html-duration-picker.js/blob/master/screenshots/default-after.jpg)
+![Duration Picker Input](https://github.com/nadchif/html-duration-picker.js/blob/master/screenshots/default-after.jpg)
 
 
 [See Live Demo](https://nadchif.github.io/html-duration-picker.js/)
@@ -28,13 +28,14 @@ Why use html-duration-picker?
 
 * Tiny (~5kb)
 * No additional dependencies (css, jquery or whatever). 
-* Compatible with Bootstrap 3 and 4
+* Bootstrap 3 and Bootstrap 4 Compatible
+* Angular Compatible
 * You can modify and improve it :-)
 * Absolutely FREE!
 
 ## License
 
-GPL v3
+GPL-3.0
 
 ## Contributions
 Contributions and suggestions are very welcome and wanted. I try to respond to pull requests within 48 hours. For more information see [CONTRIBUTING.md](https://github.com/nadchif/html-duration-picker.js/blob/master/CONTRIBUTING.md).
